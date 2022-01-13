@@ -3,7 +3,7 @@
 
 This basic react app showcases changing temperature by pressing a button, which changes display in the form of color and number.
 ## Try It
-This project is currently hosted on netlify.app, [give it a try :)]()
+This project is currently hosted on netlify.app, [give it a try :)](thermo-control.netlify.app)
 
 ## What did i learn
 
